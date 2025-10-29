@@ -1,4 +1,4 @@
-# [PlateIT]
+# PlateIT
 
 CodePath WEB103 Final Project
 
