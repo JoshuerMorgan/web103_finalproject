@@ -1,8 +1,8 @@
-# [your app name here]
+# [PlateIT]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: [Joshua Akeredolu, Dongyyoung Yang, Luis Ibarra]
 
 🔗 Link to deployed app:
 
@@ -10,35 +10,42 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+[PlateIT is a smart recipe generator. Enter the ingredients you have on hand and PlateIT uses AI to suggest a complete meal—with steps, cook time, and nutrition estimates. You can also enter a dish name to get a recipe from scratch, or ask for a vegan version of any meal.]
 
 ### Inspiration
 
-[text goes here]
+[busy students, meal preppers, and anyone staring at a fridge wondering what to cook.]
 
 ## Tech Stack
 
-Frontend:
+Frontend:React (Vite), React Router, Bootstrap
 
-Backend:
+Backend:Node.js, Express
+
 
 ## Features
 
-### [Name of Feature 1]
+### [Ingredient ➜ Meal Generator]
 
-[short description goes here]
+[Enter a comma-separated list of ingredients. The AI proposes a dish and outputs:
+
+Title, description, difficulty, time estimate
+
+Step-by-step instructions
+
+Approx. nutrition per serving]
 
 [gif goes here]
 
-### [Name of Feature 2]
+### [Recipe by Dish Name]
 
-[short description goes here]
+[Type “Jollof Rice” (or any dish) to get a complete recipe with ingredients, steps, and tips.]
 
 [gif goes here]
 
-### [Name of Feature 3]
+### [Veganize Any Dish]
 
-[short description goes here]
+[Paste a recipe or dish name and get a vegan version with plant-based swaps.]
 
 [gif goes here]
 
