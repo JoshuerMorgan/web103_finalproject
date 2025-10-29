@@ -22,11 +22,11 @@ Frontend: React (Vite), React Router, Bootstrap
 
 Backend: Node.js, Express.js
 
-Database: PostgreSQL
+Database: PostgreSQL / SupaBase 
 
 ## Features
 
-### [Ingredient ➜ Meal Generator]
+### Ingredient ➜ Meal Generator
 
 [Enter a comma-separated list of ingredients and kitchenwares. The AI proposes a dish and outputs:
 
@@ -38,19 +38,34 @@ Approx. nutrition per serving]
 
 [gif goes here]
 
-### [Recipe by Dish Name]
+### Recipe by Dish Name
 
 [Type “Jollof Rice” (or any dish) to get a complete recipe with ingredients, steps, and tips.]
 
 [gif goes here]
 
-### [Veganize Any Dish]
+### Veganize Any Dish
 
 [Options for vegetarians when they search recipes by using a checkbox and a list of types of vegetarian]
 
 [gif goes here]
 
+### Save & Rate Recipes 
+Log in to bookmark any recipe, add personal notes, and rate results to improve future suggestions.
+
+[gif goes here]
+
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+
+### Nutrition & Macros Estimate (Stretch)
+Approximate calories, protein, carbs, and fats per serving using ingredient heuristics and portion sizes.
+[gif goes here]
+
+### Step Mode with Timers (Stretch)
+Full-screen, one-step-at-a-time “cook mode,” optional voice controls, and per-step timers so your hands can stay off the keyboard.
+
+[gif goes here]
+
 
 ## Installation Instructions
 
