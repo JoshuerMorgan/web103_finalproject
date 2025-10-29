@@ -10,7 +10,7 @@ Designed and developed by: [Joshua Akeredolu, Dongyyoung Yang, Luis Ibarra]
 
 ### Description and Purpose
 
-[PlateIT is a smart recipe generator. Enter the ingredients you have on hand and PlateIT uses AI to suggest a complete meal—with steps, cook time, and nutrition estimates. You can also enter a dish name to get a recipe from scratch, or ask for a vegan version of any meal.]
+[PlateIT is a smart recipe generator. Enter the ingredients you have on hand, and PlateIT uses AI to suggest a complete meal—with steps, cook time, and nutrition estimates. You can also enter a dish name to get a recipe from scratch, or ask for a vegan version of any meal.]
 
 ### Inspiration
 
@@ -18,16 +18,17 @@ Designed and developed by: [Joshua Akeredolu, Dongyyoung Yang, Luis Ibarra]
 
 ## Tech Stack
 
-Frontend:React (Vite), React Router, Bootstrap
+Frontend: React (Vite), React Router, Bootstrap
 
-Backend:Node.js, Express
+Backend: Node.js, Express.js
 
+Database: PostgreSQL
 
 ## Features
 
 ### [Ingredient ➜ Meal Generator]
 
-[Enter a comma-separated list of ingredients. The AI proposes a dish and outputs:
+[Enter a comma-separated list of ingredients and kitchenwares. The AI proposes a dish and outputs:
 
 Title, description, difficulty, time estimate
 
@@ -45,7 +46,7 @@ Approx. nutrition per serving]
 
 ### [Veganize Any Dish]
 
-[Paste a recipe or dish name and get a vegan version with plant-based swaps.]
+[Options for vegetarians when they search recipes by using a checkbox and a list of types of vegetarian]
 
 [gif goes here]
 
