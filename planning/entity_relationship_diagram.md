@@ -15,7 +15,6 @@ saved_recipes
 likes
 comments
 recipe_steps
-
 ]
 
 ## Add the Entity Relationship Diagram
