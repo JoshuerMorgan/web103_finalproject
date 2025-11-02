@@ -13,7 +13,6 @@ Recipe Detail Page
 ⭐ Edit Recipe Page
 Profile Page
 Saved Recipes Page
-
 ]
 
 ## Wireframe 1: [page title]
