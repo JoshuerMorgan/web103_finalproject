@@ -9,22 +9,24 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 Login / Register Page
 ⭐ All Recipes Page
 Recipe Detail Page
-⭐ Create Recipe Page
+ Create Recipe Page
 ⭐ Edit Recipe Page
-Profile Page
+⭐Profile Page
 Saved Recipes Page
 ]
 
-## Wireframe 1: [page title]
+## Wireframe 1: [Home page]
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![alt text](diagrams/HomepagePage.png)
 
-## Wireframe 2: [page title]
+## Wireframe 2: [All Recipes Page]
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![alt text](diagrams/AllRecipePage.png)
 
-## Wireframe 3: [page title]
+## Wireframe 3: [Edit Recipe Page]
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![alt text](diagrams/EditRecipePage.png)
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+## Wireframe 4: [Profile Page]
+
+![alt text](diagrams/ProfilePage.png)
