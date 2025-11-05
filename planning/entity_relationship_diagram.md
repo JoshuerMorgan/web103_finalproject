@@ -19,8 +19,7 @@ recipe_steps
 
 ## Add the Entity Relationship Diagram
 
-![ER Diagram](./planning/diagrams/group33_ERDs.png)
-
+![alt text](diagrams/group33_ERDs.png)
 [👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
 
 ### tables
